@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586757702 source:/home/arun/Aruns_Workspace/Programming/C/string_opeartion.c
+	<stdio.h>
+	<string.h>
+
